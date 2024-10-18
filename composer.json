@@ -1,5 +1,5 @@
 {
-    "name": "pranav/seo-optimizer",
+    "name": "pr4n4vs/seo-optimizer",
     "description": "A Laravel package for SEO optimization.",
     "require": {
         "php": "^8.1",
